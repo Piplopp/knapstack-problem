@@ -1,6 +1,6 @@
 Jérome PIVERT - 02/12/2014
 
-Réalisé sous ubuntu - par editeur de texte - Python 2.7.3
+Python 2.7.3
 
 Ce README contient également (en bas) les réponses à différentes questions
 Ce programme permet de tester différentes stratégies pour résoudre le problème du sac à dos, il produit egalement des boxplots sur differentes statistiques de chaque strategies.
